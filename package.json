@@ -1,0 +1,19 @@
+{
+  "name": "asana-test",
+  "version": "1.0.0",
+  "description": "asana api test.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "asana"
+  ],
+  "author": "Fujisawa Shin",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
+}
